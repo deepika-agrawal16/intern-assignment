@@ -34,20 +34,6 @@ A cross-platform utility and admin dashboard that helps monitor machine-level sy
 
 ---
 
-## 🗂️ Folder Structure
-
-project-root/
-│
-├── system-utility/ # Cross-platform script to collect & send system data
-│
-├── backend-api/ # Express server to collect and serve reports
-│ └── index.js
-│
-└── admin-dashboard/ # React dashboard to monitor machines
-├── src/
-│ └── App.js
-└── package.json
-
 
 ## 🚀 Getting Started
 
